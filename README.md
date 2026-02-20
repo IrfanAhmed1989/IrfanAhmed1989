@@ -12,18 +12,19 @@ Hands-on with <b>Linux/macOS automation</b>, <b>SCADA/MMIS</b>, <b>preventive ma
 ---
 
 ### 🔰 Badges
-https://img.shields.io/badge/Linux-automation-blue?logo=linux
-https://img.shields.io/badge/Python-scripting-yellow?logo=python
-https://img.shields.io/badge/Bash-terminal-lightgrey?logo=gnubash
-https://img.shields.io/badge/GitHub-Actions-2088FF?logo=githubactions&logoColor=white
-https://img.shields.io/badge/SCADA-controls-orange
+![](https://img.shields.io/badge/Linux-automation-blue?logo=linux)
+![](https://img.shields.io/badge/Python-scripting-yellow?logo=python)
+![](https://img.shields.io/badge/Bash-terminal-lightgrey?logo=gnubash)
+![](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/SCADA-controls-orange)
 
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=IrfanAhmed1989&show_icons=true&theme=tokyonight&hide_title=true&count_private=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanAhmed1989&layout=compact&theme=tokyonight&langs_count=8
+![](https://github-readme-stats.vercel.app/api?username=IrfanAhmed1989&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanAhmed1989&layout=compact&theme=tokyonight&langs_count=8)
 
 ### 📈 Activity Graph
-https://github-readme-activity-graph.vercel.app/graph?username=IrfanAhmed1989&theme=github-compact&area=true
+![](https://github-readme-activity-graph.vercel.app/graph?username=IrfanAhmed1989&theme=github-compact&area=true)
+
 
 ---
 
