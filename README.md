@@ -42,20 +42,14 @@ Currently completing an M.S. in CS to deepen AI/automation.
 
 ## 🧰 Experience
 **Operations & Maintenance Engineer — Atlanta Airport SkyTrain (APM), Atlanta, GA** (Jan 2021–Present)  
-Preventive maintenance via MMIS, SCADA operations, failure trend analysis; downtime/shift/availability reporting (DOA/STIP); documentation changes with engineering; training & oversight (techs/subcontractors); scheduling; safety. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Electrical Engineer — Jupiter EMC LLC, Abu Dhabi (UAE)** (Jan 2017–Dec 2019)  
-Lighting maintenance; drawings analysis; safety committees; overhead crane ops; elevator maintenance; method statements & risk assessments; compliance approvals; policy updates & training. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Electrical Engineer — TGCSS LLC, Abu Dhabi (UAE)** (Jan 2015–Jan 2017)  
-Fire alarm & firefighting systems maintenance/rectification; acceptance testing (continuity, hi‑pot isolation); field safety resource for incident reporting and safe behaviors. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Electrical Engineer — EMRILL Services LLC, Abu Dhabi (UAE)** (Jan 2012–Jan 2015)  
-Pumps (transfer/booster/sump); LV panels/SMDB/DB testing; fire detection & alarm maintenance; installation & operations to rigorous standards. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 ## 🎓 Education
-**M.S., Computer Science — Merrimack College (North Andover, MA)** — *Expected Spring 2026* [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)  
-**B.S., Electrical Engineering — Hajvery University (Lahore, Pakistan)** — *2008–2012* [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 ---
 
