@@ -7,9 +7,9 @@ I work in SCADA/controls, maintenance engineering, Linux/macOS automation, and t
 
 <!-- QUICK LINKS -->
 <p align="left">
-🔗 <a href="https://IrfanAhmed1989.github.io">Portfolio</a> &nbsp;|&nbsp;
-🔗 <a href="https://github.com/IrfanAhmed1989">GitHub</a> &nbsp;|&nbsp;
-📄 <a href="https://IrfanAhmed1989.github.io/resume.pdf">Resume (PDF)</a>
+  <a href="https://IrfanAhmed1989.github.io" target="_blank" rel="noopener">🔗 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://github.com/IrfanAhmed1989" target="_blank" rel="noopener">🔗 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://IrfanAhmed1989.github.io/resume.pdf" target="_blank" rel="noopener">📄 Resume (PDF)</a>
 </p>
 
 <!-- BADGES -->
@@ -23,12 +23,12 @@ I work in SCADA/controls, maintenance engineering, Linux/macOS automation, and t
 
 <!-- STATS ROW -->
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IrfanAhmed1989&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanAhmed1989&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=IrfanAhmed1989&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanAhmed1989&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
-<!-- ACTIVITY GRAPH (fallback-friendly) -->
-<p align="left">
+<!-- ACTIVITY GRAPH -->
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfanAhmed1989&theme=github-compact&area=true" />
 </p>
 
