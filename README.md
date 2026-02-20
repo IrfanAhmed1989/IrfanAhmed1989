@@ -1,8 +1,7 @@
 <h1 align="left">Hi, I'm Irfan Ahmed 👋</h1>
 
-Engineer across Electrical, IT, and Software — I build <b>practical, reliable automation</b> that solves real problems.
-Hands-on with SCADA/MMIS, preventive maintenance, availability reporting, troubleshooting, and Linux/terminal-first workflows.
-Currently completing an M.S. in CS to deepen AI/automation.
+Engineer across <b>IT, Electrical, and Software</b> — I build <b>practical, reliable automation</b> that reduces downtime and improves reliability.
+Hands-on with <b>Linux/macOS automation</b>, <b>SCADA/MMIS</b>, <b>preventive maintenance</b>, <b>availability reporting</b>, troubleshooting, and <b>Python</b>. Completing an <b>M.S. in CS</b> (AI/automation). [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Quick links**  
 - 🔗 Portfolio: https://IrfanAhmed1989.github.io  
@@ -27,29 +26,34 @@ Currently completing an M.S. in CS to deepen AI/automation.
 
 ---
 
-## 🔧 Skills
-- SCADA • MMIS • Preventive Maintenance • Availability Reporting  
-- Troubleshooting • Root Cause Analysis • Risk/Failure Trend Analysis  
-- Python • SQL • Java • C++ • Linux (Ubuntu) • macOS • Automation  
-- Electrical Testing (continuity/insulation/hi‑pot) • LV Panels/SMDB/DB  
-- HVAC • Fire Detection & Alarm • Pumps • Documentation & Drawings
+## 💻 IT Systems & Automation
+- Linux (Ubuntu) & macOS administration; shell scripting; log analysis; scheduled automation (launchd/cron). [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)  
+- SCADA/MMIS data capture, <b>availability reporting</b>, downtime & shift reporting (DOA/STIP). [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)  
+- Troubleshooting & root cause analysis; risk/failure trend identification; documentation & safety compliance. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)  
+- Python for reporting/ETL, CSV automation, and reliability scripts; basics in SQL/Java/C++. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)  
 
 ## 🛠 Projects
-- Automated Job Application Engine — macOS terminal + AppleScript + dedupe + MX validation + quiet send + launchd schedules (200+/day).  
-- Global Remote Tagger — TLD-based classifier (.ca, .co.uk, .de, .sg) for remote roles across rich countries.  
-- Portfolio + Resume Auto‑Updater — one command keeps portfolio + resume live and current.  
-- Engineering Automation Scripts — reporting, maintenance, troubleshooting on Linux/macOS.
+- **Automated Job Application Engine** — macOS terminal + AppleScript; quiet sends, resume attached, same‑day & 7‑day dedupe, MX validation, schedules (200+/day).  
+- **IT Ops Automation Toolkit** — log parsers, mailers, CSV/JSON pipelines for daily IT tasks (reporting, ETL, alerts).  
+- **Global Remote Tagger** — TLD-based classifier (.ca, .co.uk, .de, .sg) for remote roles across rich countries.  
+- **Portfolio + Resume Auto‑Updater** — one command keeps portfolio + resume live & current.
 
 ## 🧰 Experience
 **Operations & Maintenance Engineer — Atlanta Airport SkyTrain (APM), Atlanta, GA** (Jan 2021–Present)  
+<b>MMIS</b> & <b>SCADA</b> operations; preventive maintenance; failure trend analysis; availability/downtime/shift reporting; doc changes with engineering; team training & safety; scheduling. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Electrical Engineer — Jupiter EMC LLC, Abu Dhabi (UAE)** (Jan 2017–Dec 2019)  
+Lighting maintenance; drawings analysis; safety committees; overhead crane ops; elevator maintenance; risk assessments; compliance approvals; policy updates & training. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Electrical Engineer — TGCSS LLC, Abu Dhabi (UAE)** (Jan 2015–Jan 2017)  
+Fire alarm & firefighting systems; acceptance testing (continuity, hi‑pot/insulation); field safety support. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 **Electrical Engineer — EMRILL Services LLC, Abu Dhabi (UAE)** (Jan 2012–Jan 2015)  
+Pumps (transfer/booster/sump); LV panels/SMDB/DB testing; fire detection & alarm maintenance; installation/operations to rigorous standards. [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 ## 🎓 Education
+**M.S., Computer Science — Merrimack College (North Andover, MA)** — *Expected Spring 2026* [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)  
+**B.S., Electrical Engineering — Hajvery University (Lahore, Pakistan)** — *2008–2012* [1](https://cmsiteam-my.sharepoint.com/personal/irfan_ahmed_crystalmoverservices_com/Documents/Microsoft%20Copilot%20Chat%20Files/Irfan_Resume_Oct%202025_updated.pdf)
 
 ---
 
